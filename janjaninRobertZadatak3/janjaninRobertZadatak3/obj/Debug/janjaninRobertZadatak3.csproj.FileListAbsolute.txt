@@ -1,0 +1,7 @@
+C:\Users\Učenik 5\source\repos\janjaninRobertZadatak3\janjaninRobertZadatak3\bin\Debug\janjaninRobertZadatak3.exe.config
+C:\Users\Učenik 5\source\repos\janjaninRobertZadatak3\janjaninRobertZadatak3\bin\Debug\janjaninRobertZadatak3.exe
+C:\Users\Učenik 5\source\repos\janjaninRobertZadatak3\janjaninRobertZadatak3\bin\Debug\janjaninRobertZadatak3.pdb
+C:\Users\Učenik 5\source\repos\janjaninRobertZadatak3\janjaninRobertZadatak3\obj\Debug\janjaninRobertZadatak3.csprojAssemblyReference.cache
+C:\Users\Učenik 5\source\repos\janjaninRobertZadatak3\janjaninRobertZadatak3\obj\Debug\janjaninRobertZadatak3.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 5\source\repos\janjaninRobertZadatak3\janjaninRobertZadatak3\obj\Debug\janjaninRobertZadatak3.exe
+C:\Users\Učenik 5\source\repos\janjaninRobertZadatak3\janjaninRobertZadatak3\obj\Debug\janjaninRobertZadatak3.pdb
